@@ -14,29 +14,29 @@
 		"{bot_nick}.exe has stopped responding. Windows is checking for a solution to the problem..."
 	],
 	"maxplayers": [
-		"The maximum number of players ({0}) have already joined the game.",
-		"There's no room left for you to join this game. There are already {0} players in this lobby."
+		"O número máximo de jogadores, ({0}) já foi atingido.",
+		"Você não poderá se juntar a essa partida. O número máximo de jogadores, {0} já foi atingido."
 	],
 	"minplayers": [
-		"Please wait until there are at least {0} players.",
+		"Espere até ter {0} jogadores.",
 		"You cannot start the game until there are at least {0} players."
 	],
 	"notplayingstart": [
-		"You are not playing, so you cannot start the game! Type `!join` to join the game."
+		"Você não está jogando, então não pode iniciar a partida! Digite `!join` para se juntar."
 	],
 	"notplayingleave": [
-		"You cannot leave a game you are not playing!"
+		"Você não pode sair de uma partida que nem dentro está!"
 	],
 	"alreadyin": [
-		"You are already playing!",
-		"You are already in!"
+		"Você já está jogando!",
+		"Você já está jogando!!"
 	],
 	"leavelobby": [
-		"**{0}** left the game. There are now **{1}** players in the lobby.",
-		"**{0}** walked out of the lobby. There are now **{1}** players in the lobby.",
-		"**{0}** was shot twice by a hunter, once in the head and once in the heart. Remaining players: **{1}**",
-		"**{0}** poked a bear in the eye with a stick and has paid the price. Remaining players: **{1}**",
-		"**{0}** was hit by a humongous yellow bullet from a giant yellow tank. The **{1}** remaining players cower in fear."
+		"**{0}** saiu da partida. Agora há **{1}** pessoas jogando.",
+		"**{0}** saiu da partida. Agora há **{1}** pessoas jogando.",
+		"**{0}** levou dois tiros do caçador, um na cabeça e um no coração. Jogadores restantes: **{1}**",
+		"**{0}** cutucou o olho de um urso com um pedacinho de madeira. Não faça isso em casa. Jogadores restantes: **{1}**",
+		"**{0}** foi atingido por um tanque. Os **{1}** jogadores restantes estão com medo."
 	],
 	"gamestart": [
 		"**{0}** iniciou uma partida. Digite `{p}join` para entrar. Digite `{p}start` para iniciar.",
@@ -53,16 +53,16 @@
 	        "Traces of wolf fur are found."
 	],
 	"lynched": [
-		"The villagers have agreed to lynch **{0}**, a **{1}**.",
-		"The villagers perform surgery to obtain the heart of **{0}**, now known to be a **{1}**. They put it in a plastic cup.",
-		"The villagers perform surgery to obtain the brains of **{0}**, now known to be a **{1}**. They seal it in a glass jar.",
-		"Reluctantly, the villagers lead **{0}** to the gallows, who is later found to be a **{1}**.",
-		"The villagers sacrifice **{0}** to the belunga god, who is satisfied with the **{1}** for now.",
-		"For SCIENCE, the villagers throw **{0}** into a volcano. They discover that the melting point of a **{1}** is less than that of lava.",
-		"The villagers force **{0}** to play Russian Roulette. The town square is stained with the remains of the **{1}**.",
-		"The villagers, after much debate, finally decide on lynching **{0}**, who turned out to be... a **{1}**.",
-		"After a prolonged struggle, **{0}** is forced to the gallows, and is discovered after death to be a **{1}**.",
-		"The villagers choose to hang **{0}**; however, the rope stretches and breaks, and the ensuing fall kills the **{1}**."
+		"O vilarejo concordou em linchar **{0}**, um **{1}**.",
+		"Os cidadãos realizaram uma cirurgia no coração de **{0}**, também conhecido por ser um **{1}**. Colocaram em um potinho e jogaram no lixo.",
+		"Os cidadãos decidiram verificar o que há no cérebro de **{0}**, também conhecido por ser um **{1}**. Retiraram o cérebro e tocaram na moita.",
+		"Relutantemente, o vilarejo levou **{0}** para o enforcamento. Mais tarde se descobriu ser um **{1}**.",
+		"O vilarejo sacrificou **{0}** para Deus, que ficou contente em ter um **{1}** ao seu lado.",
+		"Pela ciência, o vilarejo tacou **{0}** dentro de um vulcano. Descobriram que um **{1}** derrete facilmente na lava.",
+		"Os cidadãos forçam **{0}** a jogar roleta russa. Pela cidade, há espalhado o corpo de um **{1}**.",
+		"Após muito debate, finalmente decidiram linchar **{0}**, que finalmente foi descoberto ser um **{1}**.",
+		"Após tanto medo e debate, **{0}** foi forçado a se matar com uma arma, provando ser, no final, um **{1}**.",
+		"Os cidadãos decidiram enforcar **{0}**; mas quando foram pendurá-lo, a corda se rompeu e ele caiu penhasco abaixou. Revelou ser um **{1}**."
 	],
 	"hastotem": [
 		"**{0}** is in possession of a mysterious totem..."
